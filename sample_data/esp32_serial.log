@@ -1,0 +1,9 @@
+I (120) boot: ESP32 firmware starting
+I (450) wifi: connected
+I (1200) sensor: I2C device found
+W (5200) task_wdt: Task watchdog got triggered
+E (5201) task_wdt: CPU 0: sensorTask
+W (7200) heap: allocation failed
+E (7201) sensor: malloc failed
+E (9300) Brownout detector was triggered
+I (9400) boot: rebooting
