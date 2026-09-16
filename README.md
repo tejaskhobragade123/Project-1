@@ -1,4 +1,4 @@
-# Embedded Engineering AI Agent
+# Embedded  AI Agent
 
 A portfolio-grade AI agent designed specifically for **embedded-systems engineering workflows**.
 
